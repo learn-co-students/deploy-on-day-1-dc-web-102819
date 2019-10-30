@@ -1242,7 +1242,13 @@ h3#comments {
 .pro-title h4 {
     display: block float:left;
     width: 295px;
+    padding: 0 10px;
     background: url(images/design-repeat.gif) right center repeat-x;
+}
+
+#employer {
+    padding-top: 25px;
+    text-align: center;
 }
 
 .pro-title h4 span {
